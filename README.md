@@ -3,4 +3,4 @@
 * React JS
 * Context API
 * Tailwind
-* Redux
+* Redux# KNUST-mini-project
