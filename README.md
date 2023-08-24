@@ -1,4 +1,4 @@
-# FakeCommerce : A Redux E-Commerce App.
+# TechStore : A Redux E-Commerce App.
 ## Built with:
 * React JS
 * Context API
